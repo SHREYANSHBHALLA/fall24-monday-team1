@@ -20,6 +20,31 @@
 - As a gamer I want to view the profiles of other users so that I can see their game progress, journals, and achievements.
 
 ## User Journalling
+•	Create a Game List:
+As a user, I want to be able to create a list that contains one or more video game titles that I believe share a common thread.
+•	Add a Description:
+As a user, I want to be able to add a short description that provides more context about the list.
+•	Set Privacy Settings:
+As a user, I want to choose whether to make this list private, accessible only to friends, or visible to anyone on Checkpoint.
+•	View List Details:
+As a user, I want to view the details of lists, including titles, descriptions, and included games.
+Game Review Features
+•	Write Game Reviews:
+As a user, I want to write detailed reviews for games I’ve played, sharing my thoughts and experiences.
+•	Rate Games:
+As a user, I want to rate games on a scale (e.g., 1 to 5 stars) to reflect my overall enjoyment.
+Graphics and Sound Features
+•	Comment on Visuals:
+As a user, I want to share my thoughts on the game's graphics and art style.
+•	Discuss Soundtrack:
+As a user, I want to comment on the music and sound effects in the game.
+Game Mechanics Features
+•	Evaluate Gameplay Mechanics:
+As a user, I want to discuss the mechanics of the game, including controls and level design.
+•	Assess Difficulty Levels:
+As a user, I want to comment on the game’s difficulty and how it impacted my experience.
+
+
 
 ## Game Lists
 
