@@ -31,6 +31,11 @@ The Event Organizer is responsible for creating events that are visible to users
 
 ## User Journalling
 
+- As a user, I want to view the details of lists, including titles, descriptions, and included games.
+- As a user, I want to write detailed reviews for games I’ve played, sharing my thoughts and experiences.
+- As a user, I want to rate games on a scale (e.g., 1 to 5 stars) to reflect my overall enjoyment.
+
+
 ## Game Lists
 
 - As a user, I want to be able to create a list that contains one or more video game titles that I believe share a common thread
