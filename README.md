@@ -31,18 +31,18 @@ The Event Organizer is responsible for creating events that are visible to users
 
 ## User Journalling
 
-•	Create a Game List:
+•	*Create a Game List:*
 - As a user, I want to be able to create a list that contains one or more video game titles that I believe share a common thread.
-•	Add a Description:
+-	*Add a Description*:
 - As a user, I want to be able to add a short description that provides more context about the list.
-•	Set Privacy Settings:
+- *Set Privacy Settings:*
 - As a user, I want to choose whether to make this list private, accessible only to friends, or visible to anyone on Checkpoint.
-•	View List Details:
+- *View List Details:*
 - As a user, I want to view the details of lists, including titles, descriptions, and included games.
-Game Review Features
-•	Write Game Reviews:
+ - Game Review Features
+- 	*Write Game Reviews:*
 - As a user, I want to write detailed reviews for games I’ve played, sharing my thoughts and experiences.
-•	Rate Games:
+- 	*Rate Games:*
 - As a user, I want to rate games on a scale (e.g., 1 to 5 stars) to reflect my overall enjoyment.
 Graphics and Sound Features
 •	Comment on Visuals:
