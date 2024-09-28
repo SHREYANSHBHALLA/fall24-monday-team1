@@ -45,14 +45,14 @@ The Event Organizer is responsible for creating events that are visible to users
 - 	*Rate Games:*
 - As a user, I want to rate games on a scale (e.g., 1 to 5 stars) to reflect my overall enjoyment.
 Graphics and Sound Features
-•	Comment on Visuals:
+- *Comment on Visuals:*
 - As a user, I want to share my thoughts on the game's graphics and art style.
-•	Discuss Soundtrack:
+- *Discuss Soundtrack:*
 - As a user, I want to comment on the music and sound effects in the game.
-Game Mechanics Features
-•	Evaluate Gameplay Mechanics:
+ *Game Mechanics Features*
+- *Evaluate Gameplay Mechanics:*
 - As a user, I want to discuss the mechanics of the game, including controls and level design.
-•	Assess Difficulty Levels:
+- *Assess Difficulty Levels:*
 - As a user, I want to comment on the game’s difficulty and how it impacted my experience.
 
 
